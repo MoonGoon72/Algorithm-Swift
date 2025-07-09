@@ -6,3 +6,5 @@
 Algorithm.xcodeproj/xcuserdata/moongoon.xcuserdatad/xcschemes/xcschememanagement.plist
 
 Algorithm.xcodeproj/project.pbxproj
+
+*.xcscheme
