@@ -20,3 +20,4 @@ stringData.forEach {
 if summation != 0 {
     print(summation)
 }
+
