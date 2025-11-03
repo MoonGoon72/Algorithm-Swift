@@ -8,3 +8,5 @@ Algorithm.xcodeproj/xcuserdata/moongoon.xcuserdatad/xcschemes/xcschememanagement
 Algorithm.xcodeproj/project.pbxproj
 
 *.xcscheme
+
+*.xcbkptlist
